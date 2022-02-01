@@ -1,1 +1,1 @@
-git command are very useful
+git command are very useful for devloper
